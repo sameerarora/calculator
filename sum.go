@@ -4,7 +4,7 @@ import "fmt"
 
 var message = "LOG"
 
-var Version = "2.0"
+var Version = "3.0"
 
 func internalSum(number int) int {
 	return number + 1
